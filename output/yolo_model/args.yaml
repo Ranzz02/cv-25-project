@@ -2,13 +2,13 @@ task: detect
 mode: train
 model: yolo11n.pt
 data: config.yaml
-epochs: 100
+epochs: 500
 time: null
-patience: 10
+patience: 30
 batch: 32
 imgsz: 640
 save: true
-save_period: 5
+save_period: -1
 cache: false
 device: cuda:0
 workers: 12
