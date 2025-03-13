@@ -1,6 +1,6 @@
-train: E:\Programming\cv-25-project\dataset\train\images
-val: E:\Programming\cv-25-project\dataset\val\images
-test: E:\Programming\cv-25-project\dataset\test\images
+train: D:\Programming\School\cv-25\cv-25-project\dataset\train\images
+val: D:\Programming\School\cv-25\cv-25-project\dataset\val\images
+test: D:\Programming\School\cv-25\cv-25-project\dataset\test\images
 names:
   0: skier
   1: snowboarder
