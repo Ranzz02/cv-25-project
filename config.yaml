@@ -4,3 +4,11 @@ test: C:\Projects\VisionComp\cv-25-project\dataset\test\images
 names:
   0: skier
   1: snowboarder
+augment: True
+hsv_h: 0.015 # Färgjusteringar
+hsv_s: 0.7
+hsv_v: 0.4
+flipud: 0.5 # Flippar bilder vertikalt ibland
+fliplr: 0.5 # Flippar bilder horisontellt ibland
+mosaic: 1.0 # Mosaic augmentation (kombinerar 4 bilder)
+mixup: 0.2 # Mixup augmentation
