@@ -2,3 +2,4 @@
 /dataset
 /yolo_export
 /cnn_data
+**/*__pycache__/
