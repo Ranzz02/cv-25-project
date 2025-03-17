@@ -3,3 +3,4 @@
 /yolo_export
 /cnn_data
 **/*__pycache__/
+/cnn_data_split
