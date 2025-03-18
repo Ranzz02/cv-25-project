@@ -1,4 +1,4 @@
-path: D:\Programming\School\cv-25\cv-25-project\dataset
+path: E:\Programming\cv-25-project\dataset
 train: train\images
 val: val\images
 test: test\images
@@ -20,6 +20,6 @@ augment:
 
 optimizer:
   type: 'adam'
-  lr0: 0.001
+  lr0: 0.0005
   momentum: 0.9
   weight_decay: 0.0005
